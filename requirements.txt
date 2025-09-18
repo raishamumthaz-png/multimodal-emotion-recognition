@@ -1,0 +1,5 @@
+streamlit
+torch
+numpy
+librosa      # if you use for audio
+scikit-learn # if text or more preprocessing
